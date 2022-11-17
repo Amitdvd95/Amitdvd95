@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitdvd95" alt="amitdvd95" /></a> </p>
 
+<a href="https://app.daily.dev/Amitdvd"><img src="https://api.daily.dev/devcards/cbd1fed2d070499e8f4fad1e7d37fe8a.png?r=km8" width="400" alt="Amit Dwivedi's Dev Card"/></a>
+
 <p align="left"> <a href="https://twitter.com/amitdvd95" target="blank"><img src="https://img.shields.io/twitter/follow/amitdvd95?logo=twitter&style=for-the-badge" alt="amitdvd95" /></a> </p>
 
 - 🌱 I’m currently learning **Docker, K8s**
@@ -31,4 +33,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitdvd95&show_icons=true&locale=en" alt="amitdvd95" /></p>
 
-<a href="https://app.daily.dev/Amitdvd"><img src="https://api.daily.dev/devcards/cbd1fed2d070499e8f4fad1e7d37fe8a.png?r=km8" width="400" alt="Amit Dwivedi's Dev Card"/></a>
