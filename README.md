@@ -1,10 +1,10 @@
 
 <!-- Header start -->
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 <h1 align="center"> 👋 Hello, Welcome to my Github profile</a>
 <h1 align="center">I'm Amit Dwivedi</h1>
 <p align="center">
 
-<img align ="right" alt "Coding" width="280" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 <!-- Header end -->
 
 <!-- GitHub About me section start -->
@@ -30,7 +30,7 @@
 </tbody>
 </table>
 </center>
-- - **Databases**
+- **Databases**
 <center>
 <table>
 <tbody>
