@@ -1,35 +1,163 @@
-<h1 align="center">Hi 👋, I'm Amit Dwivedi</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<h3 align="center">A passionate DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitdvd95&label=Profile%20views&color=0e75b6&style=flat" alt="amitdvd95" /> </p>
+![gitbanner](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitdvd95" alt="amitdvd95" /></a>
-<p align="left"> <a href="https://twitter.com/amitdvd95" target="blank"><img src="https://img.shields.io/twitter/follow/amitdvd95?logo=twitter&style=for-the-badge" alt="amitdvd95" /></a> </p>
-
-- 🌱 I’m currently learning **Docker, K8s**
-
-- 💬 Ask me about **Linux, AWS, Jenkins, Ansible**
-
-- 📫 How to reach me **amitdwivedi205@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/amitdvd95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amitdvd" height="30" width="40" /></a>
-<a href="https://twitter.com/amitdvd95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitdvd95" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amit-dwivedi-336384134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amit-dwivedi-336384134" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17507133/amitdvd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amitdvd" height="30" width="40" /></a>
-<a href="https://instagram.com/amitdwivedi95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amitdwivedi95" height="30" width="40" /></a>
-<a href="https://medium.com/@amitdwivedi205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amitdwivedi205" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amitdwivedi205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amitdwivedi205" height="30" width="40" /></a>
+<!-- Header start -->
+<h1 align="center"> 👋 Hello, Welcome to my Github profile</a>
+<h1 align="center">I'm Amit Dwivedi</h1>
+<p align="center">
+<a href="https://linkedin.com/in/naveenkumar-j-610147174/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/naveenkumar-j-610147174/" height="30" width="40" /></a>
+<a href="https://instagram.com/eagle_programming/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/eagle_programming/" height="30" width="40" /></a>
+<a href="https://hashnode.com/@naveenkumarj" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="https://hashnode.com/@naveenkumarj" height="30" width="40" /></a>
 </p>
+<img align ="right" alt "Coding" width="280" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
+<!-- Header end -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<!-- GitHub About me section start -->
+## 👨‍💻About Me:
+- ✨ A passionate DevOps Engineering student from India
+- 🚀 I’m interested in DevOps, AWS, GCP, Docker, Kubernetes 
+- 🌱 I’m currently learning Docker & Kubernetes 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=naveenkumar-j&label=Profile%20views&color=green&style=flat" alt="naveenkumar-j" /> </p>
+<!-- GitHub About me section end -->
+
+<!-- GitHub Skills start -->
+## 🎓Tools and Technologies:
+- **Programming Languages**
+<center>
+<table>
+<tbody>
+<tr>
+<td width="25%" align="center">
+<span><strong>Python</strong></span><br/>
+<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+- - **Databases**
+<center>
+<table>
+<tbody>
+<tr>
+<td width="25%" align="center">
+<span><strong>MySql</strong></span><br/>
+<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+</td>
+<td width="25%" align="center">
+<span><strong>MongoDB</strong></span><br/>
+<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+
+- **Containerazation**
+<center>
+<table>
+<tbody>
+<tr>
+<td width="25%" align="center">
+<span><strong>Docker</strong></span><br/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+</td>
+<td width="25%" align="center">
+<span><strong>Amazon ECS</strong></span><br/>
+<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg">
+</td>
+<td width="25%" align="center">
+<span><strong>Podman</strong></span><br/>
+<img height="64px" width="64px" src="">
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+- **Container Orchestration:**
+<center>
+<table>
+<tbody>
+<tr>
+<td width="25%" align="center">
+<span><strong>Kubernetes</strong></span><br/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
+</td>
+<td width="25%" align="center">
+<span><strong>Amazon EKS</strong></span><br/>
+<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-ar21.svg">
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+- **Cloud Platforms**
+<center>
+<table>
+<tbody>
+<tr>
+<td width="25%" align="center">
+<span><strong>AWS</strong></span><br/>
+<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
+</td>
+<td width="25%" align="center">
+<span><strong>GCP</strong></span><br/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
+</td>
+<td width="25%" align="center">
+<span><strong>Azure</strong></span><br/>
+<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+- **Others**
+<center>
+<table>
+<tbody>
+<tr>
+<td width="25%" align="center">
+<span><strong>Linux</strong></span><br/>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+</td>
+<td width="25%" align="center">
+<span><strong>git</strong></span><br/>
+<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+</td>
+<td width="25%" align="center">
+<span><strong>github</strong></span><br/>
+<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+</td>
+<td width="25%" align="center">
+<span><strong>Subversion</strong></span><br/>
+<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/apache_subversion/apache_subversion-ar21.svg">
+</td>
+
+<td width="25%" align="center">
+<span><strong>Arduino</strong></span><br/>
+<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
+</td>
+
+<td width="25%" align="center">
+<span><strong>Flask</strong></span><br/>
+<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
+</td>
+<td width="25%" align="center">
+<span><strong>Matlab</strong></span><br/>
+<img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<!-- GitHub Skills end -->
+
+<!-- GitHub Activity start -->
+## 🏆My Github stats and Trophies:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitdvd95&show_icons=true&locale=en&layout=compact" alt="amitdvd95" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitdvd95&show_icons=true&locale=en" alt="amitdvd95" /></p>
 
+<!---github.com/Amitdvd95--->
