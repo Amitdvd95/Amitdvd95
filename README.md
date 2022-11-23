@@ -44,7 +44,7 @@
 </tbody>
 </table>
 </center>
-- **Version Control Systems**
+-**Version Control Systems**
 <center>
 <table>
 <tbody>
@@ -65,7 +65,7 @@
 </tbody>
 </table>
 </center>
-- **Cloud and Virtulization**
+-**Cloud and Virtulization**
 <center>
 <table>
 <tbody>
