@@ -1,3 +1,4 @@
+https://w7.pngwing.com/pngs/659/158/png-transparent-devops-business-process-software-development-process-implementation-business-text-people-logo-thumbnail.png
 <h1 align="center">Hi 👋, I'm Amit Dwivedi</h1>
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
