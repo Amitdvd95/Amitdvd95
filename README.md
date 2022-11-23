@@ -3,8 +3,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h3 align="center">A passionate DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10"> from India</h3>
-A passionate DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="15"> from India
+<h3 align="center">A passionate DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitdvd95&label=Profile%20views&color=0e75b6&style=flat" alt="amitdvd95" /> </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitdvd95" alt="amitdvd95" /></a>
