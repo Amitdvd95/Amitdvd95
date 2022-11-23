@@ -1,5 +1,4 @@
 <!-- <img src="https://w7.pngwing.com/pngs/659/158/png-transparent-devops-business-process-software-development-process-implementation-business-text-people-logo-thumbnail.png" /> -->
-<img align ="center" width="800" height="300" src="https://thumbs.dreamstime.com/z/devops-software-development-concept-172936815.jpg"/>
 <h1 align="center">Hi 👋, I'm Amit Dwivedi</h1>
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
