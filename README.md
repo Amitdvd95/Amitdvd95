@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h3 align="center">A passionate DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India</h3>
+<h3 align="center">A passionate DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10"> from India</h3>
 A passionate DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="15"> from India
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitdvd95&label=Profile%20views&color=0e75b6&style=flat" alt="amitdvd95" /> </p>
 
